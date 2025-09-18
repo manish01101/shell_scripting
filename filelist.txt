@@ -1,0 +1,13 @@
+1_datatype_userinput_conditional.sh
+2_fn_keyword.sh
+3_var_redirection.sh
+4_debugging.sh
+a.csv
+a.md
+a.sh
+b.sh
+extract_filename.sh
+filelist.txt
+items.txt
+nohup.out
+redirect.log
